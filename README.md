@@ -8,5 +8,3 @@
   - Check out my [Website](https://www.techwithomid.ir/)
   - Check out my [Twitter](https://twitter.com/techwithomid) 
   - I post daily on [Instagram](https://instagram.com/techwithomid) 
-
-- ⚡ Fun fact: I use [shad-bot](https://github.com/techwithomid/shad-bot) for twist the my online class
