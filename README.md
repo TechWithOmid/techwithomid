@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on twitter clone with django and react.js
+- 🔭 I’m currently working on personal blog
 - 🌱 I’m currently learning Python/Django and Javascript
 - 📫 How to reach me:
 
