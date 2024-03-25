@@ -5,4 +5,4 @@
 - 📫 How to reach me:
 
   - My [Blog](https://techwithomid.ir/)
-  - [Instagram](https://instagram.com/techwithomid) 
+  - My [Instagram](https://instagram.com/techwithomid) 
