@@ -5,4 +5,5 @@
 - 📫 How to reach me:
 
   - My [Blog](https://techwithomid.ir/)
-  - My [Instagram](https://instagram.com/techwithomid) 
+  - Also sending Email Is the best way to contact me:
+      - [omidmmadi@gmail.com](mailto:omidmmadi@gmail.com)
