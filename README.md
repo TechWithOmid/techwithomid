@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Python/Django and Javascript
+- 🌱 I’m currently working with Python/Django and Javascript
 - 📫 How to reach me:
 
   - My [Blog](https://techwithomid.ir/)
